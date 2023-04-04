@@ -10,7 +10,7 @@
 
 - Durante a faculdade, descobri meu interesse pela área de dados. Percebi que a análise de dados poderia me permitir usar minhas habilidades para resolver problemas reais. Além disso, a área de dados é uma combinação única de habilidades técnicas, matemáticas e de negócios, o que me permitiria aplicar meus conhecimentos em diversas áreas para solucionar problemas complexos.
 
--  Uma das coisas que mais gosto na área de dados é a capacidade de analisar grandes volumes de informações e transformá-los em insights valiosos para tomadas de decisão. Através da análise de dados, é possível identificar tendências, padrões e oportunidades de melhoria, permitindo que as empresas tomem decisões mais estratégicas e embasadas em dados concretos.
+-  Uma das coisas que mais gosto na área de dados é a capacidade de analisar grandes volumes de informações e transformá-los em insights valiosos para tomadas de decisão. Através da análise de dados, é possível identificar tendências, padrões e oportunidades de melhoria, permitindo tomadas de decisões mais estratégicas e embasadas em dados concretos.
 
 ## Habilidades: 
 <div style="display: inline_block">

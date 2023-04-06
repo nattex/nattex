@@ -24,6 +24,7 @@
 </div><br/>
 
 - Gerenciamento de banco de dados (SGBD).
+- Administração de banco de dados (DBA).
 - Análise e tratamento de dados.
 
 ## Estou aprendendo:

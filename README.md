@@ -48,7 +48,6 @@
   <em>"Torture os dados, e eles confessarão qualquer coisa." - Ronald Coase</em>.
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nattex&bg_color=382e2f&color=e08910&line=ef790b&point=063722&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
